@@ -3,24 +3,24 @@ Version control with Git - final project
 
 https://git-scm.com/book/en/v2
 
-	• Application
+• Application
 
-	  > We have to discuss what kind of application we want to implement. I think that it will be nice to do it firstly using only locally defined submodule, as in this yt video:
+  > We have to discuss what kind of application we want to implement. I think that it will be nice to do it firstly using only locally defined submodule, as in this yt video:
 
-	  https://www.youtube.com/watch?v=RgIAXF53a8U&list=PL_RrEj88onS-jN7dZb-tYz0cpsxuA23Cm
+  https://www.youtube.com/watch?v=RgIAXF53a8U&list=PL_RrEj88onS-jN7dZb-tYz0cpsxuA23Cm
 
-	  and then move everything to GitHub. 
+  and then move everything to GitHub. I think about having some python scripts, which are dependent from each other. In the first of them I would import some functions from the second, in which also some stuff would be imported from this third repo. I can work on that.
 
-	  I think that it will be good to have overall 4 repositories?
+  I think that it will be good to have overall 4 repositories?
 
-	  - one independent with whole wiki about submodules
-	  - three dependent ([1,2,3]), first uses second as a submodule and second uses third as a submodule, so we have nested submodule situation in this second repository
+  - one independent with whole wiki about submodules
+  - three dependent ([1,2,3]), first uses second as a submodule and second uses third as a submodule, so we have nested submodule situation in this second repository
 
-	• Theoretical framework
-	• Examples
-	• Tasks
-	• Pros & cons
-	• Github page???
+• Theoretical framework
+• Examples
+• Tasks
+• Pros & cons
+• Github page???
 
 
 Practical points:
