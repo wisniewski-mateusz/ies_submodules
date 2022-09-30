@@ -1,3 +1,4 @@
 [submodule "ies_subsubmodules"]
 	path = ies_subsubmodules
 	url = https://github.com/wisniewski-mateusz/ies_subsubmodules
+	branch = stable

@@ -18,3 +18,9 @@ or using the summarized version with the special command:
 ```
 git clone --recurse-submodules git@github.com:wisniewski-mateusz/ies_submodules.git
 ```
+
+To see more information with **status** command about the changes which were made in the submodule, the next line can be executed:
+
+```
+git config status.submodulesummary 1
+```
