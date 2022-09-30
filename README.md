@@ -9,6 +9,8 @@ https://git-scm.com/book/en/v2
 
 	  https://www.youtube.com/watch?v=RgIAXF53a8U&list=PL_RrEj88onS-jN7dZb-tYz0cpsxuA23Cm
 
+	  and then move everything to GitHub. 
+
 	  I think that it will be good to have overall 4 repositories?
 
 	  - one independent with whole wiki about submodules
