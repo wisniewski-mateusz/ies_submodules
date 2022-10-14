@@ -1,7 +1,10 @@
 # ies_submodules
 ## Version control with Git - final project
 
-
+### Theoretical framework
+### Application
+### Examples
+### Pros & Cons
 
 
 https://git-scm.com/book/en/v2
