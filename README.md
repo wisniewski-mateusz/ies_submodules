@@ -24,6 +24,4 @@ https://git-scm.com/book/en/v2
 	• Github page
 
 
-Practical points:
-Markdown /latex
 
