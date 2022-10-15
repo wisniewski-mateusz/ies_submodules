@@ -5,7 +5,7 @@
 
 Submodules is the process for which a reposittory can be cloned and utilised as a subdirectory of the host repository. This action allows you to use the cloned repository as a subdirectory while keeping both repositories independent. Such a tool might be useful when already existing material ought to be utilised in the host repository for which the needed material from a particular repository can be utilised by cloning that repository to the working project. Such tool might be visualised with the graph underneath:
 
-![alt text](image url "image Title")
+![Git Submodules](https://raw.githubusercontent.com/wisniewski-mateusz/ies_submodules/main/fm9ki0dwld_git-submodule-3349626179.png "Submodule")
 
 ### Application
 ### Working
