@@ -6,7 +6,7 @@
 Submodules is the process for which a reposittory can be cloned and utilised as a subdirectory of the repository you are working in. Moreover, this allows you to use an already existing repository within the working repository. This action allows you to use the cloned repository as a subdirectory while keeping both repositories independent. Such a tool might be useful when already existing material ought to be utilised in the working repository for which the needed material from a particular repository can be utilised by cloning that repository within the working project. 
 
 ### Application
-### Examples
+### Working
 ### Pros & Cons
 
 * Different commands
